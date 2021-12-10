@@ -13,5 +13,5 @@ En enkel sætning som kort opsummerer, hvilket behov ønsket dækker. Skrives p�
 **Beskrivelse**
 Uddybende beskrivelse med baggrund for ønsket, samt uddybende kontekst eventuelt via konkrete eksempler på brug.
 
-**Acceptkriter**
+**Acceptkriterier**
 Konkrete og testbare krav til den nye funktionalitet
