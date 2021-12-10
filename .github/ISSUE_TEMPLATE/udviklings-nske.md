@@ -2,7 +2,7 @@
 name: Udviklingsønske
 about: Foreslå ny feature eller ændring til eksisterende feature i Blanketmotoren
 title: ''
-labels: ''
+labels: udviklingsønske
 assignees: ''
 
 ---
