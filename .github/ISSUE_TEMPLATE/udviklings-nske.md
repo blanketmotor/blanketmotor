@@ -15,3 +15,6 @@ Uddybende beskrivelse med baggrund for ønsket, samt uddybende kontekst eventuel
 
 **Acceptkriterier**
 Konkrete og testbare krav til den nye funktionalitet
+
+**Evt. ønsket releasedato / deadline**
+DD-MM-ÅÅÅÅ
