@@ -1,0 +1,46 @@
+name: Udviklingsønske (ny)
+about: Foreslå ny feature eller ændring til eksisterende feature i Blanketmotoren
+labels: udviklingsønske
+body:
+  - type: input
+    id: myndighed
+    attributes:
+      label: Myndighed
+      description: Hvilken myndighed repræsenterer du?
+    validations:
+      required: true
+  - type: textarea
+    id: user-story
+    attributes:
+      label: User Story
+      description: En enkel sætning som kort opsummerer, hvilket behov ønsket dækker
+      value: Som XXX vil jeg gerne YYY for at ZZZ
+    validations:
+      required: true
+  - type: textarea
+    id: beskrivelse
+    attributes:
+      label: Beskrivelse
+      description: Uddybende beskrivelse med baggrund for ønsket, samt uddybende kontekst eventuelt via konkrete eksempler på brug.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptkriterier
+    attributes:
+      label: Acceptkriterier
+      description: Konkrete og testbare krav til den nye funktionalitet (ikke krævet)
+      placeholder: |
+        1. 
+        2. 
+        3. 
+        ...
+    validations:
+      required: false
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline
+      description: Ønsket deadline / releasedato
+      placeholder: DD-MM-ÅÅÅÅ
+    validations:
+      required: false
