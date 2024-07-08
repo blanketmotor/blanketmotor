@@ -1,5 +1,5 @@
 name: Udviklingsønske (ny)
-about: Foreslå ny feature eller ændring til eksisterende feature i Blanketmotoren
+description: Foreslå ny feature eller ændring til eksisterende feature i Blanketmotoren
 labels: udviklingsønske
 body:
   - type: input
