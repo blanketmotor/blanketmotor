@@ -40,7 +40,7 @@ body:
     id: deadline
     attributes:
       label: Deadline
-      description: Ønsket deadline / releasedato
+      description: Ønsket deadline / releasedato (ikke krævet)
       placeholder: DD-MM-ÅÅÅÅ
     validations:
       required: false
