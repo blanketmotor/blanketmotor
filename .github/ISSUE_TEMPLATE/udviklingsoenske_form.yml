@@ -28,19 +28,14 @@ body:
     id: acceptkriterier
     attributes:
       label: Acceptkriterier
-      description: Konkrete og testbare krav til den nye funktionalitet (ikke krævet)
-      placeholder: |
-        1. 
-        2. 
-        3. 
-        ...
+      description: Konkrete og testbare krav til den nye funktionalitet (ikke påkrævet)
     validations:
       required: false
   - type: input
     id: deadline
     attributes:
       label: Deadline
-      description: Ønsket deadline / releasedato (ikke krævet)
+      description: Ønsket deadline / releasedato (ikke påkrævet)
       placeholder: DD-MM-ÅÅÅÅ
     validations:
       required: false
