@@ -1,0 +1,18 @@
+name: Ændringer til Wiki
+description: Foreslå tilføjelser eller ændringer til Blanketmotor Wiki
+labels: wiki
+body:
+  - type: textarea
+    id: beskrivelse
+    attributes:
+      label: Beskrivelse
+      description: Beskriv hvad der ønskes tilføjet/ændret
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link (ikke påkrævet)
+      description: Link til relevant side på wiki'en
+    validations:
+      required: false
